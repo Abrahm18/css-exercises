@@ -1,7 +1,6 @@
 .obb {
   background-color: rgb(255, 39, 154);
   font-family: Verdana,'DejaVu Sans', sans-serif;
-  font-size: 24px;
 }
 .ID {
   color: hsl(233, 90%, 63%);
@@ -10,4 +9,7 @@
 .green {
   font-size: 24px;
   background-color: #32f352;
+}
+#three {
+  font-size: 24px;
 }
